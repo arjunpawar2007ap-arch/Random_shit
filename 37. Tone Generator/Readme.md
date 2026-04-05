@@ -47,3 +47,5 @@ In this case, since the bottom one is increased, it reduces the time for highs a
 ## What I learnt?
 
 Changing resistor values doesn't just reshape the square wave it changes what you hear, and whether you can hear the difference at all.
+
+**I HAVE ALSO ADDED THE .txt FILE WHICH YOU CAN DOWNLOAD AND IMPORT IN FALSTAD**
